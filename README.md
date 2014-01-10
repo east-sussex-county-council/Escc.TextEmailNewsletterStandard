@@ -7,5 +7,5 @@ To create a newsletter conforming to the standard, follow 4 steps:
 
 1. Create an instance of ```TextEmailNewsletter```
 2. Create instances of ```TextEmailNewsletterSection``` and add them to the ```TextEmailNewsletter```
-3. Create instances of ```TextEmailNewsletterArticle``` and add them to the ```TextEmailNewsletterSection```s
+3. Create instances of ```TextEmailNewsletterArticle``` and add them to each ```TextEmailNewsletterSection```
 4. Call ```.ToString()``` on the ```TextEmailNewsletter```
